@@ -1,0 +1,52 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Georgia;
+  font-size: 4rem;
+  color: #e63333;
+}
+
+p {
+  font-size: 2rem;
+  color: #e63333;
+  font-family: Georgia;
+}
+
+img {
+  width: 80%;
+}
+
+button{ 
+  margin-top: 30px;
+align-self: center;
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 38px;
+  background: ;
+  padding: 10px 20px 10px 20px;
+  border: dotted #e63333 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e63333;
+  text-decoration: none;
+}
